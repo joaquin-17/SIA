@@ -1,0 +1,13 @@
+name = "SIA"
+uuid = "19a589c7-708f-4d48-8757-09f80e110d59"
+authors = ["Joaquín Acedo <aacedo@ualberta.ca>", "Signal Processing and Imaging Group (SAIG)"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
